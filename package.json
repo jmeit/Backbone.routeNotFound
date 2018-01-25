@@ -1,0 +1,27 @@
+{
+  "name": "Backbone.routeNotFound",
+  "main": "backbone.routenotfound.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jmeit/Backbone.routeNotFound",
+  "authors": [
+    "Samuel Reed"
+  ],
+  "description": "Fires an event to let the application know that no routes matched, for Backbone.js",
+  "keywords": [
+    "backbone",
+    "route",
+    "404"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": ">=0.9.2",
+    "underscore": "~1"
+  }
+}
